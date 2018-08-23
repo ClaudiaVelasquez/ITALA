@@ -109,7 +109,7 @@
                     <img id="img1" src="Recursos/img/portadav3.jpg"> <!-- random image -->
                     <!-- <div class="caption center-align"> -->
                     <div class="caption left-align">
-                    <h3 style="text-shadow: 2px 2px 3px #424242;">Una foto se convertirá</h3>
+                    <h3 style="text-shadow: 2px 2px 3px #424242;">Una foto se convertirá : ...</h3>
                     <h5 class="light white-text text-lighten-3" style="text-shadow: 2px 2px 2px #424242;">en la gran prueba de nuestro amor<br>para toda la vida</h5>
                     </div>
                 </li>
